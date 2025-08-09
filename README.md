@@ -4,7 +4,7 @@ This Flutter app tracks global and country-wise COVID-19 data in real-time.
 
 ## Screenshots
 
-![Screenshot](screenshots/screenshot.jpg)
-![Screenshot 2](screenshots/screenshot2.jpg)
-![Screenshot 3](screenshots/screenshot3.jpg)
-![Screenshot 4](screenshots/screenshot4.jpg)
+![Screenshot 2](screenshots/globalTrackingView.jpg)
+![Screenshot](screenshots/countryList.jpg)
+![Screenshot 3](screenshots/searchView.jpg)
+![Screenshot 4](screenshots/countryDetail.jpg)
